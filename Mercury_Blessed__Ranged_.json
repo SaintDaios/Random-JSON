@@ -1,0 +1,184 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Random",
+				"abbreviation": "RH",
+				"full": "Random",
+				"url": "",
+				"authors": [],
+				"convertedBy": [
+					"House"
+				]
+			}
+		],
+		"dateAdded": 1609623966,
+		"dateLastModified": 1609623966
+	},
+	"monster": [
+		{
+			"name": "Mercury Blessed (Ranged)",
+			"source": "Random",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any race"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"{@item plate armor|phb}"
+					]
+				}
+			],
+			"hp": {
+				"average": 229,
+				"formula": "27d8 + 108"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 20,
+			"con": 18,
+			"int": 12,
+			"wis": 12,
+			"cha": 18,
+			"save": {
+				"dex": "+9",
+				"con": "+8",
+				"str": "+7"
+			},
+			"skill": {
+				"athletics": "+7",
+				"intimidation": "+8",
+				"perception": "+5",
+				"persuasion": "+8"
+			},
+			"passive": 15,
+			"languages": [
+				"any two languages"
+			],
+			"cr": "12",
+			"trait": [
+				{
+					"name": "Indomitable (3/Day)",
+					"entries": [
+						"The creature can reroll a saving throw it fails. It must use the new roll."
+					]
+				},
+				{
+					"name": "Survivor",
+					"entries": [
+						"The creature regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum."
+					]
+				},
+				{
+					"name": "Promethean's Blessing (Complete)",
+					"entries": [
+						"All magical spells that target this creature has a 10% chance of failure. If the spell does succeed, it has a 15% chance of half damage. ",
+						"This creature is immune to being {@condition charmed}, {@condition frightened}, {@condition exhaustion} and cannot be {@condition incapacitated}. ",
+						"This creature gains vulnerability to lightning damage.",
+						"This creature ignores the loading property on ranged weapons."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The warlord makes two weapon attacks."
+					]
+				},
+				{
+					"name": "Lance",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d12 + 3}) piercing damage.18"
+					]
+				},
+				{
+					"name": "Hunting Rifle",
+					"entries": [
+						"{@atk rw} {@hit 9} to hit, range 80/240 ft., one target. {@h}15 ({@damage 2d10 + 5}) piercing damage. Reload (5)"
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Weapon Attack",
+					"entries": [
+						"The creature makes a weapon attack."
+					]
+				},
+				{
+					"name": "Move",
+					"entries": [
+						"The creature moves up to half its speed."
+					]
+				},
+				{
+					"name": "Frighten Foe (Costs 2 Actions)",
+					"entries": [
+						"The creature targets one enemy it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a {@dc 16} Wisdom saving throw or be {@condition frightened} until the end of warlord's next turn."
+					]
+				}
+			],
+			"environment": [
+				"urban"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"X"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW",
+				"RCH",
+				"RW"
+			],
+			"conditionInflict": [
+				"frightened"
+			],
+			"tokenUrl": "https://5e.tools/img/VGM/Warlord.png?v=1.118.1",
+			"fluff": {
+				"entries": [
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"entries": [
+											"Mercury Blessed are creatures that have fully succumbed to their affliction but did not die. Horrible metal casts of their former visage, these unrelating creatures attack anything that isn't like themselves, dragging their prey off for unknown and likely nefarious reasons..."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"vulnerable": [
+				"lightning"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"incapacitated"
+			]
+		}
+	]
+}
