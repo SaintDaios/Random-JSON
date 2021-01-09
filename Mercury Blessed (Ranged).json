@@ -1,0 +1,1272 @@
+{
+    "schema_version": 2,
+    "oldId": "-MQ45pEDaxjzqoxXGeAL",
+    "name": "Mercury Blessed (Ranged)",
+    "avatar": "https://5e.tools/img/VGM/Warlord.png?v=1.118.1?1609624671464",
+    "bio": "<div  class=\"rd__b  rd__b--3\"><div  class=\"rd__b  rd__b--3\"><div  class=\"rd__b  rd__b--3\"><div  class=\"rd__b  rd__b--3\"><p>Mercury Blessed are creatures that have fully succumbed to their affliction but did not die. Horrible metal casts of their former visage, these unrelating creatures attack anything that isn't like themselves, dragging their prey off for unknown and likely nefarious reasons...</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__spc-inline-post\"></div></div>",
+    "gmnotes": "",
+    "defaulttoken": "{\"represents\":\"-MQ45pEDaxjzqoxXGeAL\",\"name\":\"Mercury Blessed (Ranged)\",\"imgsrc\":\"https://5e.tools/img/VGM/Warlord.png?v=1.118.1?1609624671464\",\"width\":70,\"height\":70,\"compact_bar\":\"standard\",\"light_hassight\":true}",
+    "tags": "[\"creature-humanoid\",\"creature-any-race\",\"creature-cr-12\",\"creature-random\",\"creature-medium\",\"creature-urban\",\"creature\"]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "npc",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFLx3lQtF3rpyi0"
+        },
+        {
+            "name": "npc_toggle",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFMCVGhQ9-0-g3N"
+        },
+        {
+            "name": "npc_options-flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFMCVGhQ9-0-g3O"
+        },
+        {
+            "name": "mancer_confirm_flag",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFMCVGhQ9-0-g3P"
+        },
+        {
+            "name": "mancer_cancel",
+            "current": "on",
+            "max": "",
+            "id": "-MQ45pFMCVGhQ9-0-g3Q"
+        },
+        {
+            "name": "l1mancer_status",
+            "current": "completed",
+            "max": "",
+            "id": "-MQ45pFMCVGhQ9-0-g3R"
+        },
+        {
+            "name": "wtype",
+            "current": "@{whispertoggle}",
+            "max": "",
+            "id": "-MQ45pFN0JIfujS6j-bO"
+        },
+        {
+            "name": "rtype",
+            "current": "@{advantagetoggle}",
+            "max": "",
+            "id": "-MQ45pFN0JIfujS6j-bP"
+        },
+        {
+            "name": "advantagetoggle",
+            "current": "{{query=1}} {{advantage=1}} {{r2=[[@{d20}",
+            "max": "",
+            "id": "-MQ45pFN0JIfujS6j-bQ"
+        },
+        {
+            "name": "whispertoggle",
+            "current": "/w gm ",
+            "max": "",
+            "id": "-MQ45pFOvvPH0FCqfFWh"
+        },
+        {
+            "name": "dtype",
+            "current": "full",
+            "max": "",
+            "id": "-MQ45pFOvvPH0FCqfFWi"
+        },
+        {
+            "name": "npc_name",
+            "current": "Mercury Blessed (Ranged)",
+            "max": "",
+            "id": "-MQ45pFOvvPH0FCqfFWj"
+        },
+        {
+            "name": "npc_size",
+            "current": "Medium",
+            "max": "",
+            "id": "-MQ45pFOvvPH0FCqfFWk"
+        },
+        {
+            "name": "type",
+            "current": "humanoid (any race)",
+            "max": "",
+            "id": "-MQ45pFP70irv5iCxl8L"
+        },
+        {
+            "name": "npc_type",
+            "current": "Medium humanoid (any race), any alignment",
+            "max": "",
+            "id": "-MQ45pFP70irv5iCxl8M"
+        },
+        {
+            "name": "npc_alignment",
+            "current": "any alignment",
+            "max": "",
+            "id": "-MQ45pFP70irv5iCxl8N"
+        },
+        {
+            "name": "npc_ac",
+            "current": "18",
+            "max": "",
+            "id": "-MQ45pFP70irv5iCxl8O"
+        },
+        {
+            "name": "npc_actype",
+            "current": "plate armor",
+            "max": "",
+            "id": "-MQ45pFP70irv5iCxl8P"
+        },
+        {
+            "name": "npc_hpbase",
+            "current": 229,
+            "max": "",
+            "id": "-MQ45pFQyqH6i2S0-yfc"
+        },
+        {
+            "name": "npc_hpformula",
+            "current": "27d8 + 108",
+            "max": "",
+            "id": "-MQ45pFQyqH6i2S0-yfd"
+        },
+        {
+            "name": "repeating_hpmod_-MQ45pFQyqH6i2S0-yfe_source",
+            "current": "CON",
+            "max": "",
+            "id": "-MQ45pFQyqH6i2S0-yff"
+        },
+        {
+            "name": "repeating_hpmod_-MQ45pFQyqH6i2S0-yfe_mod",
+            "current": 4,
+            "max": "",
+            "id": "-MQ45pFQyqH6i2S0-yfg"
+        },
+        {
+            "name": "npc_speed",
+            "current": "30 ft.",
+            "max": "",
+            "id": "-MQ45pFR2-QWn1ypyOh3"
+        },
+        {
+            "name": "strength",
+            "current": 16,
+            "max": "",
+            "id": "-MQ45pFR2-QWn1ypyOh4"
+        },
+        {
+            "name": "strength_base",
+            "current": "16",
+            "max": "",
+            "id": "-MQ45pFR2-QWn1ypyOh5"
+        },
+        {
+            "name": "strength_mod",
+            "current": 3,
+            "max": "",
+            "id": "-MQ45pFR2-QWn1ypyOh6"
+        },
+        {
+            "name": "npc_str_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFR2-QWn1ypyOh7"
+        },
+        {
+            "name": "strength_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuh5"
+        },
+        {
+            "name": "dexterity",
+            "current": 20,
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuh6"
+        },
+        {
+            "name": "dexterity_base",
+            "current": "20",
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuh7"
+        },
+        {
+            "name": "dexterity_mod",
+            "current": 5,
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuh8"
+        },
+        {
+            "name": "npc_dex_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuh9"
+        },
+        {
+            "name": "dexterity_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFSl6fHpIFWTuhA"
+        },
+        {
+            "name": "constitution",
+            "current": 18,
+            "max": "",
+            "id": "-MQ45pFTABqMVKc9SOP2"
+        },
+        {
+            "name": "constitution_base",
+            "current": "18",
+            "max": "",
+            "id": "-MQ45pFTABqMVKc9SOP3"
+        },
+        {
+            "name": "constitution_mod",
+            "current": 4,
+            "max": "",
+            "id": "-MQ45pFTABqMVKc9SOP4"
+        },
+        {
+            "name": "npc_con_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFTABqMVKc9SOP5"
+        },
+        {
+            "name": "constitution_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFTABqMVKc9SOP6"
+        },
+        {
+            "name": "intelligence",
+            "current": 12,
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrH"
+        },
+        {
+            "name": "intelligence_base",
+            "current": "12",
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrI"
+        },
+        {
+            "name": "intelligence_mod",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrJ"
+        },
+        {
+            "name": "npc_int_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrK"
+        },
+        {
+            "name": "intelligence_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrL"
+        },
+        {
+            "name": "wisdom",
+            "current": 12,
+            "max": "",
+            "id": "-MQ45pFU2TaYwfJvclrM"
+        },
+        {
+            "name": "wisdom_base",
+            "current": "12",
+            "max": "",
+            "id": "-MQ45pFVB33dhHdSjdul"
+        },
+        {
+            "name": "wisdom_mod",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFVB33dhHdSjdum"
+        },
+        {
+            "name": "npc_wis_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFVB33dhHdSjdun"
+        },
+        {
+            "name": "wisdom_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFVB33dhHdSjduo"
+        },
+        {
+            "name": "charisma",
+            "current": 18,
+            "max": "",
+            "id": "-MQ45pFVB33dhHdSjdup"
+        },
+        {
+            "name": "charisma_base",
+            "current": "18",
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LC"
+        },
+        {
+            "name": "charisma_mod",
+            "current": 4,
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LD"
+        },
+        {
+            "name": "npc_cha_negative",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LE"
+        },
+        {
+            "name": "charisma_flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LF"
+        },
+        {
+            "name": "initiative_bonus",
+            "current": 5,
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LG"
+        },
+        {
+            "name": "passive",
+            "current": 15,
+            "max": "",
+            "id": "-MQ45pFWkGNx8tqpm3LH"
+        },
+        {
+            "name": "npc_languages",
+            "current": "any two languages",
+            "max": "",
+            "id": "-MQ45pFXIchRaRmsFQ_A"
+        },
+        {
+            "name": "npc_challenge",
+            "current": "12",
+            "max": "",
+            "id": "-MQ45pFXIchRaRmsFQ_B"
+        },
+        {
+            "name": "level",
+            "current": 20,
+            "max": "",
+            "id": "-MQ45pFXIchRaRmsFQ_C"
+        },
+        {
+            "name": "npc_xp",
+            "current": 8400,
+            "max": "",
+            "id": "-MQ45pFXIchRaRmsFQ_D"
+        },
+        {
+            "name": "npc_vulnerabilities",
+            "current": "lightning",
+            "max": "",
+            "id": "-MQ45pFYWqgCscZsAvww"
+        },
+        {
+            "name": "damage_vulnerabilities",
+            "current": "lightning",
+            "max": "",
+            "id": "-MQ45pFYWqgCscZsAvwx"
+        },
+        {
+            "name": "npc_resistances",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFYWqgCscZsAvwy"
+        },
+        {
+            "name": "damage_resistances",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFZqzhzw1ptR1TV"
+        },
+        {
+            "name": "npc_immunities",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFZqzhzw1ptR1TW"
+        },
+        {
+            "name": "damage_immunities",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFZqzhzw1ptR1TX"
+        },
+        {
+            "name": "npc_condition_immunities",
+            "current": "charmed, exhaustion, frightened, incapacitated",
+            "max": "",
+            "id": "-MQ45pF_9pqNNvcyMDqi"
+        },
+        {
+            "name": "damage_condition_immunities",
+            "current": "charmed, exhaustion, frightened, incapacitated",
+            "max": "",
+            "id": "-MQ45pFa709f_Wtkz4MV"
+        },
+        {
+            "name": "npc_senses",
+            "current": "passive Perception 15",
+            "max": "",
+            "id": "-MQ45pFboxyr1xIU2xon"
+        },
+        {
+            "name": "npc_saving_flag",
+            "current": "1337",
+            "max": "",
+            "id": "-MQ45pFfnFfkKyvRp3wJ"
+        },
+        {
+            "name": "npc_dex_save_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFfnFfkKyvRp3wK"
+        },
+        {
+            "name": "npc_dex_save",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFgYLRT_8A9gAFf"
+        },
+        {
+            "name": "npc_con_save_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFgYLRT_8A9gAFg"
+        },
+        {
+            "name": "npc_con_save",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFgYLRT_8A9gAFh"
+        },
+        {
+            "name": "npc_str_save_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFgYLRT_8A9gAFi"
+        },
+        {
+            "name": "npc_str_save",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFgYLRT_8A9gAFj"
+        },
+        {
+            "name": "npc_skills_flag",
+            "current": "1337",
+            "max": "",
+            "id": "-MQ45pFhfaXttu3NCAVO"
+        },
+        {
+            "name": "npc_athletics_base",
+            "current": "7",
+            "max": "",
+            "id": "-MQ45pFhfaXttu3NCAVP"
+        },
+        {
+            "name": "npc_athletics",
+            "current": 7,
+            "max": "",
+            "id": "-MQ45pFhfaXttu3NCAVQ"
+        },
+        {
+            "name": "npc_athletics_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFhfaXttu3NCAVR"
+        },
+        {
+            "name": "npc_intimidation_base",
+            "current": "8",
+            "max": "",
+            "id": "-MQ45pFi-Nz0TfUoHnTn"
+        },
+        {
+            "name": "npc_intimidation",
+            "current": 8,
+            "max": "",
+            "id": "-MQ45pFi-Nz0TfUoHnTo"
+        },
+        {
+            "name": "npc_intimidation_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFi-Nz0TfUoHnTp"
+        },
+        {
+            "name": "npc_perception_base",
+            "current": "5",
+            "max": "",
+            "id": "-MQ45pFi-Nz0TfUoHnTq"
+        },
+        {
+            "name": "npc_perception",
+            "current": 5,
+            "max": "",
+            "id": "-MQ45pFi-Nz0TfUoHnTr"
+        },
+        {
+            "name": "npc_perception_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFjtkfuHFrmiQz-"
+        },
+        {
+            "name": "npc_persuasion_base",
+            "current": "8",
+            "max": "",
+            "id": "-MQ45pFjtkfuHFrmiQz0"
+        },
+        {
+            "name": "npc_persuasion",
+            "current": 8,
+            "max": "",
+            "id": "-MQ45pFjtkfuHFrmiQz1"
+        },
+        {
+            "name": "npc_persuasion_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pFjtkfuHFrmiQz2"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFkH7cG5D78HTaH_name",
+            "current": "Indomitable (3/Day)",
+            "max": "",
+            "id": "-MQ45pFkH7cG5D78HTaI"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFkH7cG5D78HTaH_desc",
+            "current": "The creature can reroll a saving throw it fails. It must use the new roll.",
+            "max": "",
+            "id": "-MQ45pFlo5Nv1sBZfHXB"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFlo5Nv1sBZfHXC_name",
+            "current": "Survivor",
+            "max": "",
+            "id": "-MQ45pFlo5Nv1sBZfHXD"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFlo5Nv1sBZfHXC_desc",
+            "current": "The creature regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.",
+            "max": "",
+            "id": "-MQ45pFmiqdMb62TmsFj"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFmiqdMb62TmsFk_name",
+            "current": "Promethean's Blessing (Complete)",
+            "max": "",
+            "id": "-MQ45pFmiqdMb62TmsFl"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFmiqdMb62TmsFk_desc",
+            "current": "All magical spells that target this creature has a 10% chance of failure. If the spell does succeed, it has a 15% chance of half damage. \n\nThis creature is immune to being charmed, frightened, exhaustion and cannot be incapacitated. \n\nThis creature gains vulnerability to lightning damage.\n\nThis creature ignores the loading property on ranged weapons.",
+            "max": "",
+            "id": "-MQ45pFolc3DYDwgqJBI"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_name",
+            "current": "Multiattack",
+            "max": "",
+            "id": "-MQ45pFpOrRIkw-y241x"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-MQ45pFpOrRIkw-y241y"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_description",
+            "current": "The warlord makes two weapon attacks.",
+            "max": "",
+            "id": "-MQ45pFq1lg_90jr9r_9"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_attack_tohitrange",
+            "current": "+0",
+            "max": "",
+            "id": "-MQ45pFq1lg_90jr9r_A"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_attack_onhit",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFq1lg_90jr9r_B"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_damage_flag",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFq1lg_90jr9r_C"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_attack_crit",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFryQqt-o74vztU"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQ45pFryQqt-o74vztV"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFpOrRIkw-y241w_rollbase",
+            "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pFryQqt-o74vztW"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_name",
+            "current": "Lance",
+            "max": "",
+            "id": "-MQ45pFultGqGuuEiVDd"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_flag",
+            "current": "on",
+            "max": "",
+            "id": "-MQ45pFultGqGuuEiVDe"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-MQ45pFultGqGuuEiVDf"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_display_flag",
+            "current": "{{attack=1}}",
+            "max": "",
+            "id": "-MQ45pFultGqGuuEiVDg"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_options",
+            "current": "{{attack=1}}",
+            "max": "",
+            "id": "-MQ45pFvrH9CPsg-CqfS"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_tohit",
+            "current": "7",
+            "max": "",
+            "id": "-MQ45pFvrH9CPsg-CqfT"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_damage",
+            "current": "1d12 + 3",
+            "max": "",
+            "id": "-MQ45pFvrH9CPsg-CqfU"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_crit",
+            "current": "1d12",
+            "max": "",
+            "id": "-MQ45pFwOr5pz_-ciRCT"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_damagetype",
+            "current": "piercing",
+            "max": "",
+            "id": "-MQ45pFwOr5pz_-ciRCU"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_name_display",
+            "current": "Lance",
+            "max": "",
+            "id": "-MQ45pFwOr5pz_-ciRCV"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_rollbase",
+            "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pFwOr5pz_-ciRCW"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_type",
+            "current": "Melee",
+            "max": "",
+            "id": "-MQ45pFx_lOO3bf3vCFt"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_type_display",
+            "current": "Melee Weapon Attack:",
+            "max": "",
+            "id": "-MQ45pFx_lOO3bf3vCFu"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_tohitrange",
+            "current": "+7, Reach 10 ft., one target",
+            "max": "",
+            "id": "-MQ45pFx_lOO3bf3vCFv"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_range",
+            "current": "10 ft.",
+            "max": "",
+            "id": "-MQ45pFx_lOO3bf3vCFw"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_target",
+            "current": "one target",
+            "max": "",
+            "id": "-MQ45pFyRHcTnevJDi6c"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_damage_flag",
+            "current": "{{damage=1}} {{dmg1flag=1}} ",
+            "max": "",
+            "id": "-MQ45pFyRHcTnevJDi6d"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_onhit",
+            "current": "9 (1d12 + 3) piercing damage",
+            "max": "",
+            "id": "-MQ45pFyRHcTnevJDi6e"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_description",
+            "current": "18",
+            "max": "",
+            "id": "-MQ45pFzzfDhPORQXDMU"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_description_flag",
+            "current": 2,
+            "max": "",
+            "id": "-MQ45pFzzfDhPORQXDMV"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_show_desc",
+            "current": "@{description}",
+            "max": "",
+            "id": "-MQ45pFzzfDhPORQXDMW"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_name",
+            "current": "Hunting Rifle",
+            "max": "",
+            "id": "-MQ45pG0R6W9XVtE1G-k"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_flag",
+            "current": "on",
+            "max": "",
+            "id": "-MQ45pG0R6W9XVtE1G-l"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-MQ45pG0R6W9XVtE1G-m"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_display_flag",
+            "current": "{{attack=1}}",
+            "max": "",
+            "id": "-MQ45pG11b66C8RGMUAE"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_options",
+            "current": "{{attack=1}}",
+            "max": "",
+            "id": "-MQ45pG11b66C8RGMUAF"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_tohit",
+            "current": "9",
+            "max": "",
+            "id": "-MQ45pG11b66C8RGMUAG"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_damage",
+            "current": "2d10 + 5",
+            "max": "",
+            "id": "-MQ45pG11b66C8RGMUAH"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_crit",
+            "current": "2d10",
+            "max": "",
+            "id": "-MQ45pG2ATPch1M2Q8XI"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_damagetype",
+            "current": "piercing",
+            "max": "",
+            "id": "-MQ45pG2ATPch1M2Q8XJ"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_name_display",
+            "current": "Hunting Rifle",
+            "max": "",
+            "id": "-MQ45pG2ATPch1M2Q8XK"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_rollbase",
+            "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pG32ww0qK0ZSlF-"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_type",
+            "current": "Ranged",
+            "max": "",
+            "id": "-MQ45pG32ww0qK0ZSlF0"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_type_display",
+            "current": "Ranged Weapon Attack:",
+            "max": "",
+            "id": "-MQ45pG32ww0qK0ZSlF1"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_tohitrange",
+            "current": "+9, Range 80/240 ft., one target",
+            "max": "",
+            "id": "-MQ45pG32ww0qK0ZSlF2"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_range",
+            "current": "80/240 ft.",
+            "max": "",
+            "id": "-MQ45pG4zJJsvx23NSxa"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_target",
+            "current": "one target",
+            "max": "",
+            "id": "-MQ45pG5G4oJ8-dwqVWc"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_damage_flag",
+            "current": "{{damage=1}} {{dmg1flag=1}} ",
+            "max": "",
+            "id": "-MQ45pG7-nxUMS22rL0L"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_onhit",
+            "current": "16 (2d10 + 5) piercing damage",
+            "max": "",
+            "id": "-MQ45pG7-nxUMS22rL0M"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_description",
+            "current": "Reload (5)",
+            "max": "",
+            "id": "-MQ45pG8Q9svBzwFzzwv"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_description_flag",
+            "current": 2,
+            "max": "",
+            "id": "-MQ45pG8Q9svBzwFzzww"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_show_desc",
+            "current": "@{description}",
+            "max": "",
+            "id": "-MQ45pG8Q9svBzwFzzwx"
+        },
+        {
+            "name": "legendary_flag",
+            "current": "1",
+            "max": "",
+            "id": "-MQ45pG8Q9svBzwFzzwy"
+        },
+        {
+            "name": "npc_legendary_actions",
+            "current": "3",
+            "max": "",
+            "id": "-MQ45pG9Kn7lTSrDNybg"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_name",
+            "current": "Weapon Attack",
+            "max": "",
+            "id": "-MQ45pG9Kn7lTSrDNybi"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_npc_options-flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pG9Kn7lTSrDNybj"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_rollbase",
+            "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pG9Kn7lTSrDNybk"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_name_display",
+            "current": "Weapon Attack",
+            "max": "",
+            "id": "-MQ45pGAm_siSMW9i5H_"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_description",
+            "current": "The creature makes a weapon attack.",
+            "max": "",
+            "id": "-MQ45pGAm_siSMW9i5Ha"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_description_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pGAm_siSMW9i5Hb"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_name",
+            "current": "Move",
+            "max": "",
+            "id": "-MQ45pGBaLZCjAMO2dN6"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_npc_options-flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pGCaBiZezO6cFkX"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_rollbase",
+            "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pGCaBiZezO6cFkY"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_name_display",
+            "current": "Move",
+            "max": "",
+            "id": "-MQ45pGCaBiZezO6cFkZ"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_description",
+            "current": "The creature moves up to half its speed.",
+            "max": "",
+            "id": "-MQ45pGDxbePSPykCOx4"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_description_flag",
+            "current": 1,
+            "max": "",
+            "id": "-MQ45pGDxbePSPykCOx5"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_name",
+            "current": "Frighten Foe (Costs 2 Actions)",
+            "max": "",
+            "id": "-MQ45pGDxbePSPykCOx7"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_npc_options-flag",
+            "current": 0,
+            "max": "",
+            "id": "-MQ45pGETXn0fE6kVCpb"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_rollbase",
+            "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+            "max": "",
+            "id": "-MQ45pGETXn0fE6kVCpc"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_name_display",
+            "current": "Frighten Foe (Costs 2 Actions)",
+            "max": "",
+            "id": "-MQ45pGETXn0fE6kVCpd"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_description",
+            "current": "The creature targets one enemy it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be frightened until the end of warlord's next turn.",
+            "max": "",
+            "id": "-MQ45pGFzLOK37tx6LOf"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_description_flag",
+            "current": 4,
+            "max": "",
+            "id": "-MQ45pGFzLOK37tx6LOg"
+        },
+        {
+            "name": "showleveler",
+            "current": 0,
+            "max": "",
+            "id": "-MQXdhqSuyz6ntihPavy"
+        },
+        {
+            "name": "invalidXP",
+            "current": 0,
+            "max": "",
+            "id": "-MQXdhqVG-t1t7FEArgH"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFkH7cG5D78HTaH_description",
+            "current": "The creature can reroll a saving throw it fails. It must use the new roll.",
+            "max": "",
+            "id": "-MQXdhr3g1UV0rfal3yg"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFlo5Nv1sBZfHXC_description",
+            "current": "The creature regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.",
+            "max": "",
+            "id": "-MQXdhr6p7ZZGSbC2_Qb"
+        },
+        {
+            "name": "repeating_npctrait_-MQ45pFmiqdMb62TmsFk_description",
+            "current": "This creature grows accustomed to magic damage the more it is  subjected to it. If this creature receives damage from a magical source, it gains resistance to that damage type afterwards. If it receives damage from a magical source of that same type again, it gains immunity to that type afterward. This feature is reset if the creature receives damage of a different type from a magical source. \n\nAll magical spells that target this creature have their critical fumble chance increased by 1.\n\nThis creature is immune to being charmed, frightened, exhaustion and cannot be incapacitated. \n\nThis creature gains vulnerability to lightning damage. It loses this vulnerability if it gains resistance to it.\n\nThis creature has the Magic Resistance trait.\n\nThis creature ignores the loading property on weapons.",
+            "max": "",
+            "id": "-MQXdhr76hzNOr2zfJf9"
+        },
+        {
+            "name": "version",
+            "current": 4.21,
+            "max": "",
+            "id": "-MQXdhrLUzrKqQjzKfcX"
+        },
+        {
+            "name": "appliedUpdates",
+            "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_npc_charname_output,fix_spell_school_ouput",
+            "max": "",
+            "id": "-MQXdhrSgjsROaZG24zA"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_attack_tohitrange",
+            "current": "+0",
+            "max": "",
+            "id": "-MQXdhsHZUVBVlA6gK_n"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_attack_onhit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsJ_dqYD3Y82ZKB"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_damage_flag",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsJ_dqYD3Y82ZKC"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_attack_crit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsKDicVLeJWU-AB"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pG9Kn7lTSrDNybh_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsL4hqkhFAwyOpu"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_attack_tohitrange",
+            "current": "+0",
+            "max": "",
+            "id": "-MQXdhsOXXBUrCKF5J2m"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_attack_onhit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsPKbvgBLU7gK-Y"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_damage_flag",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsQB7_0gilK1RJS"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_attack_crit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsR9dvT4ZKikjuV"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGBaLZCjAMO2dN5_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsSUy75x-J_4paF"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_attack_tohitrange",
+            "current": "+0",
+            "max": "",
+            "id": "-MQXdhsTecc0NmQHDOgj"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_attack_onhit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsUWV-hta3Cih-7"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_damage_flag",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsV-qd1T5ABKPLk"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_attack_crit",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsWml8c5BhWmJSb"
+        },
+        {
+            "name": "repeating_npcaction-l_-MQ45pGDxbePSPykCOx6_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsX8wZvpTNVbBnG"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pFtKLht5JEiTFwX_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsrRqKAJG2KZ0MF"
+        },
+        {
+            "name": "repeating_npcaction_-MQ45pG-MBVjD5XAp0zx_attack_crit2",
+            "current": "",
+            "max": "",
+            "id": "-MQXdhsvhSp_Tmkuwk_D"
+        },
+        {
+            "name": "charname_output",
+            "current": "{{charname=@{npc_name}}}",
+            "max": "",
+            "id": "-MQXdhtfrhoXv5pbS-wB"
+        },
+        {
+            "name": "ui_flags",
+            "current": "repeating_npctrait_edit_3_-mqxwndpsg-vxmejscol",
+            "max": "",
+            "id": "-MQXdsPr6MrpITLyHS9J"
+        },
+        {
+            "name": "repeating_npctrait_-MQXwndPsG-vXMeJScOl_name",
+            "current": "Magic Resistance",
+            "max": "",
+            "id": "-MQXwptInr69H8ipPFbr"
+        },
+        {
+            "name": "repeating_npctrait_-MQXwndPsG-vXMeJScOl_description",
+            "current": "The Mercury Blessed has advantage on saving throws against spells and other magical effects.",
+            "max": "",
+            "id": "-MQXx1KfW0-tItbgNywd"
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Skill-Check",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:simple}{{always=1}}?{Ability?|Acrobatics,{{rname=Acrobatics&#125;&#125;{{mod=@{npc_acrobatics}&#125;&#125; {{r1=[[1d20+@{npc_acrobatics}]]&#125;&#125;{{r2=[[1d20+@{npc_acrobatics}]]&#125;&#125;|Animal Handling,{{rname=Animal Handling&#125;&#125;{{mod=@{npc_animal_handling}&#125;&#125; {{r1=[[1d20+@{npc_animal_handling}]]&#125;&#125;{{r2=[[1d20+@{npc_animal_handling}]]&#125;&#125;|Arcana,{{rname=Arcana&#125;&#125;{{mod=@{npc_arcana}&#125;&#125; {{r1=[[1d20+@{npc_arcana}]]&#125;&#125;{{r2=[[1d20+@{npc_arcana}]]&#125;&#125;|Athletics,{{rname=Athletics&#125;&#125;{{mod=@{npc_athletics}&#125;&#125; {{r1=[[1d20+@{npc_athletics}]]&#125;&#125;{{r2=[[1d20+@{npc_athletics}]]&#125;&#125;|Deception,{{rname=Deception&#125;&#125;{{mod=@{npc_deception}&#125;&#125; {{r1=[[1d20+@{npc_deception}]]&#125;&#125;{{r2=[[1d20+@{npc_deception}]]&#125;&#125;|History,{{rname=History&#125;&#125;{{mod=@{npc_history}&#125;&#125; {{r1=[[1d20+@{npc_history}]]&#125;&#125;{{r2=[[1d20+@{npc_history}]]&#125;&#125;|Insight,{{rname=Insight&#125;&#125;{{mod=@{npc_insight}&#125;&#125; {{r1=[[1d20+@{npc_insight}]]&#125;&#125;{{r2=[[1d20+@{npc_insight}]]&#125;&#125;|Intimidation,{{rname=Intimidation&#125;&#125;{{mod=@{npc_intimidation}&#125;&#125; {{r1=[[1d20+@{npc_intimidation}]]&#125;&#125;{{r2=[[1d20+@{npc_intimidation}]]&#125;&#125;|Investigation,{{rname=Investigation&#125;&#125;{{mod=@{npc_investigation}&#125;&#125; {{r1=[[1d20+@{npc_investigation}]]&#125;&#125;{{r2=[[1d20+@{npc_investigation}]]&#125;&#125;|Medicine,{{rname=Medicine&#125;&#125;{{mod=@{npc_medicine}&#125;&#125; {{r1=[[1d20+@{npc_medicine}]]&#125;&#125;{{r2=[[1d20+@{npc_medicine}]]&#125;&#125;|Nature,{{rname=Nature&#125;&#125;{{mod=@{npc_nature}&#125;&#125; {{r1=[[1d20+@{npc_nature}]]&#125;&#125;{{r2=[[1d20+@{npc_nature}]]&#125;&#125;|Perception,{{rname=Perception&#125;&#125;{{mod=@{npc_perception}&#125;&#125; {{r1=[[1d20+@{npc_perception}]]&#125;&#125;{{r2=[[1d20+@{npc_perception}]]&#125;&#125;|Performance,{{rname=Performance&#125;&#125;{{mod=@{npc_performance}&#125;&#125; {{r1=[[1d20+@{npc_performance}]]&#125;&#125;{{r2=[[1d20+@{npc_performance}]]&#125;&#125;|Persuasion,{{rname=Persuasion&#125;&#125;{{mod=@{npc_persuasion}&#125;&#125; {{r1=[[1d20+@{npc_persuasion}]]&#125;&#125;{{r2=[[1d20+@{npc_persuasion}]]&#125;&#125;|Religion,{{rname=Religion&#125;&#125;{{mod=@{npc_religion}&#125;&#125; {{r1=[[1d20+@{npc_religion}]]&#125;&#125;{{r2=[[1d20+@{npc_religion}]]&#125;&#125;|Sleight of Hand,{{rname=Sleight of Hand&#125;&#125;{{mod=@{npc_sleight_of_hand}&#125;&#125; {{r1=[[1d20+@{npc_sleight_of_hand}]]&#125;&#125;{{r2=[[1d20+@{npc_sleight_of_hand}]]&#125;&#125;|Stealth,{{rname=Stealth&#125;&#125;{{mod=@{npc_stealth}&#125;&#125; {{r1=[[1d20+@{npc_stealth}]]&#125;&#125;{{r2=[[1d20+@{npc_stealth}]]&#125;&#125;|Survival,{{rname=Survival&#125;&#125;{{mod=@{npc_survival}&#125;&#125; {{r1=[[1d20+@{npc_survival}]]&#125;&#125;{{r2=[[1d20+@{npc_survival}]]&#125;&#125;}{{charname=@{character_name}}} ",
+            "order": -1
+        },
+        {
+            "name": "Perception",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{Selected|npc_perception} @{selected|wtype} &{template:default} {{name=Senses}}  @{selected|wtype} @{Selected|npc_senses} ",
+            "order": -1
+        },
+        {
+            "name": "Saves",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:simple}{{always=1}}?{Saving Throw?|STR,{{rname=Strength Save&#125;&#125;{{mod=@{npc_str_save}&#125;&#125; {{r1=[[1d20+@{npc_str_save}]]&#125;&#125;{{r2=[[1d20+@{npc_str_save}]]&#125;&#125;|DEX,{{rname=Dexterity Save&#125;&#125;{{mod=@{npc_dex_save}&#125;&#125; {{r1=[[1d20+@{npc_dex_save}]]&#125;&#125;{{r2=[[1d20+@{npc_dex_save}]]&#125;&#125;|CON,{{rname=Constitution Save&#125;&#125;{{mod=@{npc_con_save}&#125;&#125; {{r1=[[1d20+@{npc_con_save}]]&#125;&#125;{{r2=[[1d20+@{npc_con_save}]]&#125;&#125;|INT,{{rname=Intelligence Save&#125;&#125;{{mod=@{npc_int_save}&#125;&#125; {{r1=[[1d20+@{npc_int_save}]]&#125;&#125;{{r2=[[1d20+@{npc_int_save}]]&#125;&#125;|WIS,{{rname=Wisdom Save&#125;&#125;{{mod=@{npc_wis_save}&#125;&#125; {{r1=[[1d20+@{npc_wis_save}]]&#125;&#125;{{r2=[[1d20+@{npc_wis_save}]]&#125;&#125;|CHA,{{rname=Charisma Save&#125;&#125;{{mod=@{npc_cha_save}&#125;&#125; {{r1=[[1d20+@{npc_cha_save}]]&#125;&#125;{{r2=[[1d20+@{npc_cha_save}]]&#125;&#125;}{{charname=@{character_name}}} ",
+            "order": -1
+        },
+        {
+            "name": "Init",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{selected|npc_init}",
+            "order": -1
+        },
+        {
+            "name": "Ability-Check",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:simple}{{always=1}}?{Ability?|STR,{{rname=Strength&#125;&#125;{{mod=@{strength_mod}&#125;&#125; {{r1=[[1d20+@{strength_mod}]]&#125;&#125;{{r2=[[1d20+@{strength_mod}]]&#125;&#125;|DEX,{{rname=Dexterity&#125;&#125;{{mod=@{dexterity_mod}&#125;&#125; {{r1=[[1d20+@{dexterity_mod}]]&#125;&#125;{{r2=[[1d20+@{dexterity_mod}]]&#125;&#125;|CON,{{rname=Constitution&#125;&#125;{{mod=@{constitution_mod}&#125;&#125; {{r1=[[1d20+@{constitution_mod}]]&#125;&#125;{{r2=[[1d20+@{constitution_mod}]]&#125;&#125;|INT,{{rname=Intelligence&#125;&#125;{{mod=@{intelligence_mod}&#125;&#125; {{r1=[[1d20+@{intelligence_mod}]]&#125;&#125;{{r2=[[1d20+@{intelligence_mod}]]&#125;&#125;|WIS,{{rname=Wisdom&#125;&#125;{{mod=@{wisdom_mod}&#125;&#125; {{r1=[[1d20+@{wisdom_mod}]]&#125;&#125;{{r2=[[1d20+@{wisdom_mod}]]&#125;&#125;|CHA,{{rname=Charisma&#125;&#125;{{mod=@{charisma_mod}&#125;&#125; {{r1=[[1d20+@{charisma_mod}]]&#125;&#125;{{r2=[[1d20+@{charisma_mod}]]&#125;&#125;}{{charname=@{character_name}}} ",
+            "order": -1
+        },
+        {
+            "name": "DR/Immunities",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:default} {{name=DR/Immunities}} {{Damage Resistance= @{selected|npc_resistances}}} {{Damage Vulnerability= @{selected|npc_vulnerabilities}}} {{Damage Immunity= @{selected|npc_immunities}}} {{Condition Immunity= @{selected|npc_condition_immunities}}} ",
+            "order": -1
+        },
+        {
+            "name": "Stats",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:default} {{name=Stats}} {{Armor Class= @{selected|npc_AC}}} {{Hit Dice= @{selected|npc_hpformula}}} {{Speed= @{selected|npc_speed}}} {{Senses= @{selected|npc_senses}}} {{Languages= @{selected|npc_languages}}} {{Challenge= @{selected|npc_challenge}(@{selected|npc_xp}xp)}}",
+            "order": -1
+        },
+        {
+            "name": "Trait0: Indomitable (3/Day)",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:npcaction} {{name=@{selected|npc_name}}} {{rname=@{selected|repeating_npctrait_$0_name}}} {{description=@{selected|repeating_npctrait_$0_desc} }}",
+            "order": -1
+        },
+        {
+            "name": "Trait1: Survivor",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:npcaction} {{name=@{selected|npc_name}}} {{rname=@{selected|repeating_npctrait_$1_name}}} {{description=@{selected|repeating_npctrait_$1_desc} }}",
+            "order": -1
+        },
+        {
+            "name": "Trait2: Promethean's Blessing (Complete)",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} &{template:npcaction} {{name=@{selected|npc_name}}} {{rname=@{selected|repeating_npctrait_$2_name}}} {{description=@{selected|repeating_npctrait_$2_desc} }}",
+            "order": -1
+        },
+        {
+            "name": "0: Multiattack",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{selected|repeating_npcaction_$0_npc_action}",
+            "order": -1
+        },
+        {
+            "name": "1: Lance",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{selected|repeating_npcaction_$1_npc_action}",
+            "order": -1
+        },
+        {
+            "name": "2: Hunting Rifle",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{selected|repeating_npcaction_$2_npc_action}",
+            "order": -1
+        },
+        {
+            "name": "Legendary Actions",
+            "description": "",
+            "istokenaction": true,
+            "action": "@{selected|wtype} @{selected|wtype}&{template:npcaction} {{name=@{selected|npc_name}}} {{rname=Legendary Actions}} {{description=The @{selected|npc_name} can take @{selected|npc_legendary_actions} legendary actions, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The @{selected|npc_name} regains spent legendary actions at the start of its turn.\n\r[Weapon Attack](~selected|repeating_npcaction-l_$0_npc_action)\n\r[Move](~selected|repeating_npcaction-l_$1_npc_action)\n\r[Frighten Foe (Costs 2 Actions)](~selected|repeating_npcaction-l_$2_npc_action)\n\r}} ",
+            "order": -1
+        }
+    ]
+}
